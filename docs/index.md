@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to devinlin's homepage
 
 You can use the [editor on GitHub](https://github.com/DevinLin01/info/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
